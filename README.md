@@ -12,7 +12,7 @@
 An **Intelligent Tutoring System (ITS)** that detects real-time learner concentration by analyzing **facial emotions, head pose, and screen gaze** using improved Xception CNN. 
 This research addresses the limitation of prior work that simply mapped facial emotions to concentration levels, proposing a more comprehensive approach combining multiple behavioral indicators for precise concentration assessment.
 
-!(Realtime_Learner_Detection_system.png)
+![Real-Time Learner Concentration Detection ITS](Realtime_Learner_Detection_system.png)
 
 ## 🔗 Links & Resources
 - 📄 **Original Paper**: [KACE Journal Link](https://journal.kace.re.kr/xml/43892/43892.pdf)
